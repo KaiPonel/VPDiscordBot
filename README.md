@@ -1,5 +1,5 @@
 # Discord-Bot für wiss. Facharbeit 
-Dieses Projekt entspricht dem praktischen Teil meiner wissenschaftlichen Facharbeit in der 12. Klasse (2018/2019). Ziel des Projekt war es, Daten eines Online Vertretungsplans auszulesen und Benutzer über einen Discord-BOT bei (für sie relevanten Änderungen) zu benachrichtigen.
+Dieses Projekt entspricht dem praktischen Teil meiner wissenschaftlichen Facharbeit in der 12. Klasse (2018/2019). Ziel des Projekt war es, Daten eines Online Vertretungsplans auszulesen und Benutzer über einen Discord-BOT (bei für sie relevanten Änderungen) zu benachrichtigen.
 
 ## Hinweise zum Projekt
 - Dies war mein erstes Real-World-Projekt. Ich hatte bis zu diesem Zeitpunkt praktisch keine Programmiererfahrung.
@@ -7,7 +7,7 @@ Dieses Projekt entspricht dem praktischen Teil meiner wissenschaftlichen Facharb
 - Mein Ziel war lediglich: Ein Bot schreiben der mir und Mitschülern im Alltag hilft. 
 - Um eine Übersicht über das Projekt zu erhalten empfiehlt sich das enthaltene Klassendiagramm sowie die Klasse "Launcher", an welcher die Arbeitsweise des Programms abgeleitet werden kann.
 - Es handelt sich hier um eine öffentliche Version, weshalb Nutzerdaten etc. entfernt wurden. Die Änderungen werden an den betroffenen Stellen durch "###" gekennzeichnet.
-- Bis auf die Stellen, welche mit "###" Kommentaren versehen sind, wurden seit Abschluss des Projektes keine Änderungen (inkl.) Kommentierung vorgenommen.
+- Bis auf die Stellen, welche mit "###" Kommentaren versehen sind, wurden seit Abschluss des Projektes keine Änderungen (inkl. Kommentierung) vorgenommen.
 
 ## Einsatz des Projektes / Aktueller Status
 - Das Projekt wurde nach seiner Fertigstellung der Facharbeit von vielen meiner Mitschüler benutzt. 
