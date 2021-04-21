@@ -1,4 +1,4 @@
-# Facharbeit
+# Discord-Bot für wiss. Facharbeit 
 Dieses Projekt entspricht dem praktischen Teil meiner wissenschaftlichen Facharbeit in der 12. Klasse (2018/2019). Ziel des Projekt war es, Daten eines Online Vertretungsplans auszulesen und Benutzer über einen Discord-BOT bei (für sie relevanten Änderungen) zu benachrichtigen.
 
 ## Hinweise zum Projekt
