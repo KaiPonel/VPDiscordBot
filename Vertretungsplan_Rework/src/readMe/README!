@@ -1,0 +1,9 @@
+### Public Version ###
+- Dies war mein erstes Real-World-Projekt. Ich hatte bis zu diesem Zeitpunkt praktisch keine Programmiererfahrung.
+- Rückblickend ist klar, dass dies weder die effizienteste, noch die schönste oder die fehlerfreiste Implementierung ist.
+- Mein Ziel war lediglich: Ein Bot schreiben der mir und Mitschülern im Alltag hilft. Was ich auch erreichte.
+- Um eine Übersicht über das Projekt zu erhalten empfiehlt sich das in diesem Package enthaltene Klassendiagramm sowie die Klasse "Launcher".
+
+Note:
+- Es handelt sich hier um eine öffentliche Version, weshalb Nutzerdaten etc. entfernt wurden. Die Änderungen werden an den betroffenen Stellen durch "###" gekennzeichnet.
+- Bis auf die Stellen, welche mit "###" Kommentaren versehen sind, wurden seit Abschluss des Projektes keine Änderungen (inkl.) Kommentierung vorgenommen.

@@ -1,0 +1,200 @@
+{
+  "SET_WEEK_PLAN": "FALSE",
+  "WeekPlan": {
+    "DAY5": {
+      "HOUR3": {
+        "SUBJECT": "null",
+        "TEACHER": "null"
+      },
+      "HOUR2": {
+        "SUBJECT": "null",
+        "TEACHER": "null"
+      },
+      "HOUR1": {
+        "SUBJECT": "null",
+        "TEACHER": "null"
+      },
+      "HOUR7": {
+        "SUBJECT": "null",
+        "TEACHER": "null"
+      },
+      "HOUR6": {
+        "SUBJECT": "null",
+        "TEACHER": "null"
+      },
+      "HOUR5": {
+        "SUBJECT": "null",
+        "TEACHER": "null"
+      },
+      "HOUR4": {
+        "SUBJECT": "null",
+        "TEACHER": "null"
+      },
+      "HOUR9": {
+        "SUBJECT": "null",
+        "TEACHER": "null"
+      },
+      "HOUR8": {
+        "SUBJECT": "null",
+        "TEACHER": "null"
+      }
+    },
+    "DAY4": {
+      "HOUR3": {
+        "SUBJECT": "null",
+        "TEACHER": "null"
+      },
+      "HOUR2": {
+        "SUBJECT": "null",
+        "TEACHER": "null"
+      },
+      "HOUR1": {
+        "SUBJECT": "null",
+        "TEACHER": "null"
+      },
+      "HOUR7": {
+        "SUBJECT": "null",
+        "TEACHER": "null"
+      },
+      "HOUR6": {
+        "SUBJECT": "null",
+        "TEACHER": "null"
+      },
+      "HOUR5": {
+        "SUBJECT": "null",
+        "TEACHER": "null"
+      },
+      "HOUR4": {
+        "SUBJECT": "null",
+        "TEACHER": "null"
+      },
+      "HOUR9": {
+        "SUBJECT": "null",
+        "TEACHER": "null"
+      },
+      "HOUR8": {
+        "SUBJECT": "null",
+        "TEACHER": "null"
+      }
+    },
+    "DAY3": {
+      "HOUR3": {
+        "SUBJECT": "null",
+        "TEACHER": "null"
+      },
+      "HOUR2": {
+        "SUBJECT": "null",
+        "TEACHER": "null"
+      },
+      "HOUR1": {
+        "SUBJECT": "null",
+        "TEACHER": "null"
+      },
+      "HOUR7": {
+        "SUBJECT": "null",
+        "TEACHER": "null"
+      },
+      "HOUR6": {
+        "SUBJECT": "null",
+        "TEACHER": "null"
+      },
+      "HOUR5": {
+        "SUBJECT": "null",
+        "TEACHER": "null"
+      },
+      "HOUR4": {
+        "SUBJECT": "null",
+        "TEACHER": "null"
+      },
+      "HOUR9": {
+        "SUBJECT": "null",
+        "TEACHER": "null"
+      },
+      "HOUR8": {
+        "SUBJECT": "null",
+        "TEACHER": "null"
+      }
+    },
+    "DAY2": {
+      "HOUR3": {
+        "SUBJECT": "null",
+        "TEACHER": "null"
+      },
+      "HOUR2": {
+        "SUBJECT": "null",
+        "TEACHER": "null"
+      },
+      "HOUR1": {
+        "SUBJECT": "null",
+        "TEACHER": "null"
+      },
+      "HOUR7": {
+        "SUBJECT": "null",
+        "TEACHER": "null"
+      },
+      "HOUR6": {
+        "SUBJECT": "null",
+        "TEACHER": "null"
+      },
+      "HOUR5": {
+        "SUBJECT": "null",
+        "TEACHER": "null"
+      },
+      "HOUR4": {
+        "SUBJECT": "null",
+        "TEACHER": "null"
+      },
+      "HOUR9": {
+        "SUBJECT": "null",
+        "TEACHER": "null"
+      },
+      "HOUR8": {
+        "SUBJECT": "null",
+        "TEACHER": "null"
+      }
+    },
+    "DAY1": {
+      "HOUR3": {
+        "SUBJECT": "null",
+        "TEACHER": "null"
+      },
+      "HOUR2": {
+        "SUBJECT": "null",
+        "TEACHER": "null"
+      },
+      "HOUR1": {
+        "SUBJECT": "null",
+        "TEACHER": "null"
+      },
+      "HOUR7": {
+        "SUBJECT": "null",
+        "TEACHER": "null"
+      },
+      "HOUR6": {
+        "SUBJECT": "null",
+        "TEACHER": "null"
+      },
+      "HOUR5": {
+        "SUBJECT": "null",
+        "TEACHER": "null"
+      },
+      "HOUR4": {
+        "SUBJECT": "null",
+        "TEACHER": "null"
+      },
+      "HOUR9": {
+        "SUBJECT": "null",
+        "TEACHER": "null"
+      },
+      "HOUR8": {
+        "SUBJECT": "null",
+        "TEACHER": "null"
+      }
+    }
+  },
+  "DISCORD_ID": "176740616452046848",
+  "READYUSER": "FALSE",
+  "KLASSE": "null",
+  "TYPE": "student",
+  "VERIFIED": "FALSE"
+}
