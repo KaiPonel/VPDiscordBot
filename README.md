@@ -23,7 +23,6 @@ Dieses Projekt entspricht dem praktischen Teil meiner wissenschaftlichen Facharb
 - Die Hauptklasse ist die Klasse "Launcher"
 
 ## Was ich aus diesem Projekt mitgenommen habe
-- Größere Projekte müssen gut strukturiert sein und es ist meist kontraproduktiv einfach drauf los zu Programmieren
-- Wertvolles Wissen über APIs und externe Bibliotheken und wie man sie einbettet
-- Benutzen Entwicklungsfremde Menschen das Projekt, müssen die Bedienmöglichkeiten auf den Benutzer eindeutig und klar wirken.
-- Ein deutlich besseres Verständnis von Java und Programmierung im Allgemeinen. 
+- Vorallem bei größeren Projekten macht sich eine gute Struktur bezahlt
+- Wertvolles Wissen über die Verwendung von APIs und externe Bibliotheken sowie über Java und Programmierung allgemein. 
+- Für Menschen außerhalb der Entwicklung, müssen die Bedienungsmöglichkeiten eindeutig und klar sein
