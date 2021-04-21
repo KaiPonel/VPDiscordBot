@@ -9,23 +9,8 @@ public class Launcher {
 
 
     /**
-     *
-     *
      * @author Kai Ponel
      * @version 2.5
-     *  Diese Version ist die Version, mit den Funktionen (und weiteren) welche in der Facharbeit beschrieben wurde.
-     *  Nach der Fertigstellung der Schriftlichen Arbeit wurde ein Befehl hinzugefügt. !verfify [Nutzername]:[Password]     -   Verifiziert den Nutzer zum Benutzen des Bots
-     *  Diese Funktion wurde in der schriftlichen Arbeit nicht genannt, da er da noch nicht fertig war.
-     *
-     *  @date 18/03
-     *
-     *  Wichtig:
-     *  Ich werde dieses Programm auch nach der Entwicklung noch weiter verändern. Die Version des Bots und seine Funktionen werden sich nach Abgabe der Facharbeit weiterhin verändern
-     *  und es ist möglich, dass manche Funktionen entfernt, verändert oder hinzugefügt werden.
-     *  -   Die Version auf meinem Raspberry Pi wird fast täglich gegen ein Aktuelles dev-Build ausgetauscht und enthält manchmal starke Veränderungen.
-     *  -   Wenn elementare Funktionen des Bots in der aktuellen Funktion nicht funktionieren ist dies Übergangsweise.
-     *
-     *  Ich versuche innerhalb der Nächsten 2 Wochen (18.03-1.04) stabile Builds zu benutzen, jedoch bastel ich aktuell an einem noch neueren File-System, welches evtl. in dieser Zeit getestet wird..
      */
 
 
@@ -46,15 +31,12 @@ public class Launcher {
      * @param newEntreies   - Beschreibt die entfernten Einträge vom Plan
      */
     private ArrayList<Row> removedEntries = new ArrayList<>();
-    /*
-       Windows:   "D:\Coding\IdeaProjects\Vertretungsplan_Rework\src\Users\"
-       Rasp. Pi:  "/home/pi/Desktop/Vertretungsplan/Users/"
 
-     */
     /**
-     * @param defaultPath       -   Der Pfad für die Dateein
+     * @param defaultPath       -   Der Pfad für die Datein
      */
-    private final String defaultPath = "/home/pi/Desktop/Vertretungsplan/Users/";
+    //### Entfernt 
+    private final String defaultPath = "Placeholder";
     /**
      * @param bot           - Die Instanz des aktiven Discordbots
      */
