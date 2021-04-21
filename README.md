@@ -1,5 +1,5 @@
 # Facharbeit
-Dieses Projekt entspricht dem praktischen Teil meiner wissenschaftlichen Facharbeit in der 12. Klasse. Ziel des Projekt war es, Daten eines Online Vertretungsplans auszulesen und Benutzer über einen Discord-BOT bei (für sie relevanten Änderungen) zu benachrichtigen.
+Dieses Projekt entspricht dem praktischen Teil meiner wissenschaftlichen Facharbeit in der 12. Klasse (2018/2019). Ziel des Projekt war es, Daten eines Online Vertretungsplans auszulesen und Benutzer über einen Discord-BOT bei (für sie relevanten Änderungen) zu benachrichtigen.
 
 ## Hinweise zum Projekt
 - Dies war mein erstes Real-World-Projekt. Ich hatte bis zu diesem Zeitpunkt praktisch keine Programmiererfahrung.
