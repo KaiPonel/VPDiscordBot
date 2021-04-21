@@ -24,5 +24,6 @@ Dieses Projekt entspricht dem praktischen Teil meiner wissenschaftlichen Facharb
 
 ## Was ich aus diesem Projekt mitgenommen habe
 - Vorallem bei größeren Projekten macht sich eine gute Struktur bezahlt
-- Wertvolles Wissen über die Verwendung von APIs und externe Bibliotheken sowie über Java und Programmierung allgemein. 
+- Wertvolles Wissen über die Verwendung von APIs und externe Bibliotheken
+- Viele neue Erkenntnisse über Java / Programmierung im Allgemeinen (z.B. Exception Handling, Multithreading, Objektorientierung)  
 - Für Menschen außerhalb der Entwicklung, müssen die Bedienungsmöglichkeiten eindeutig und klar sein
