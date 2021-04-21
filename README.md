@@ -15,7 +15,15 @@ Dieses Projekt entspricht dem praktischen Teil meiner wissenschaftlichen Facharb
 
 ## Technische Aspekte
 - Das Projekt wurde ausschließlich in der Programmiersprache Java entwickelt.
-- Für die Realisierung des Projekts wurden unter anderem folgende APIs bzw. Bibliotheken verwendet:
+- Für die Realisierung des Projekts wurden unter anderem folgende externe APIs bzw. Bibliotheken verwendet:
   - "Java Discord API" https://github.com/DV8FromTheWorld/JDA 
   - "HTML-Unit"  https://htmlunit.sourceforge.io/
   - "simpleJson" https://simplejson.readthedocs.io/en/latest/ 
+- Das Projekt hat einen Umfang von ca. 2000 Zeilen, welche sich auf 16 Klassen verteilen.
+- Die Hauptklasse ist die Klasse "Launcher"
+
+## Was ich aus diesem Projekt mitgenommen habe
+- Größere Projekte müssen gut strukturiert sein und es ist meist kontraproduktiv einfach drauf los zu Programmieren
+- Wertvolles Wissen über APIs und externe Bibliotheken und wie man sie einbettet
+- Benutzen Entwicklungsfremde Menschen das Projekt, müssen die Bedienmöglichkeiten auf den Benutzer eindeutig und klar wirken.
+- Ein deutlich besseres Verständnis von Java und Programmierung im Allgemeinen. 
