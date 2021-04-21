@@ -25,13 +25,9 @@ public class DiscordBot implements EventListener  {
     private Json_DefaultRequestHandler handler;
     private final String logName = "log";
 
-    /*
-       Windows:   "D:\Coding\IdeaProjects\Vertretungsplan_Rework\src\Users\"
-       Rasp. Pi:  "/home/pi/Desktop/Vertretungsplan/Users/"
 
-     */
 
-    private String defaultPath;      //Der Pfad wurde entfernt.
+    private String defaultPath;      //###Der Pfad wurde entfernt.
     private SimpleDateFormat format = new SimpleDateFormat("dd/MM/yyyy");
 
     public DiscordBot(String defaultPath){
