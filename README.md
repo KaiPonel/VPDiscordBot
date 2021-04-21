@@ -12,3 +12,10 @@ Dieses Projekt entspricht dem praktischen Teil meiner wissenschaftlichen Facharb
 ## Einsatz des Projektes / Aktueller Status
 - Das Projekt wurde nach seiner Fertigstellung der Facharbeit von vielen meiner Mitschüler benutzt. 
 - Aufgrund von Änderungen des Online-Vertretungsplans (was dazu führte, dass das HTML-Scraping nicht mehr funktionierte), sowie mangelnder Kooperation meiner Schule bezüglich einer API-Lösung (aufgrund Datenschutzrechtlicher bedenken ihrerseits), entschied ich mich dazu, das Projekt ca. 3 Monate nach meiner Facharbeit einzustellen.
+
+## Technische Aspekte
+- Das Projekt wurde ausschließlich in der Programmiersprache Java entwickelt.
+- Für die Realisierung des Projekts wurden unter anderem folgende APIs bzw. Bibliotheken verwendet:
+  - "Java Discord API" https://github.com/DV8FromTheWorld/JDA 
+  - "HTML-Unit"  https://htmlunit.sourceforge.io/
+  - "simpleJson" https://simplejson.readthedocs.io/en/latest/ 
