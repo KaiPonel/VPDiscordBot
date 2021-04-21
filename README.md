@@ -16,9 +16,9 @@ Dieses Projekt entspricht dem praktischen Teil meiner wissenschaftlichen Facharb
 ## Technische Aspekte
 - Das Projekt wurde ausschließlich in der Programmiersprache Java entwickelt.
 - Für die Realisierung des Projekts wurden unter anderem folgende externe APIs bzw. Bibliotheken verwendet:
-  - "Java Discord API" https://github.com/DV8FromTheWorld/JDA 
-  - "HTML-Unit"  https://htmlunit.sourceforge.io/
-  - "simpleJson" https://simplejson.readthedocs.io/en/latest/ 
+  - [Java Discord API](https://github.com/DV8FromTheWorld/JDA) 
+  - [HTML-Unit](https://htmlunit.sourceforge.io/)
+  - [simpleJson](https://simplejson.readthedocs.io/en/latest/) 
 - Das Projekt hat einen Umfang von ca. 2000 Zeilen, welche sich auf 16 Klassen verteilen.
 - Die Hauptklasse ist die Klasse "Launcher"
 
