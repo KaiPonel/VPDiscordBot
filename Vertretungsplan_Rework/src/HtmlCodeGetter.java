@@ -2,7 +2,7 @@ import com.gargoylesoftware.htmlunit.*;
 import com.gargoylesoftware.htmlunit.html.*;
 import java.util.*;
 public class HtmlCodeGetter {                                       //Class Finalized, No futher Work intended - 26/02!
-    // """ Die Adresse des Vertretungsplans wurde unkenntlich gemacht.
+    // ### Die Adresse des Vertretungsplans wurde unkenntlich gemacht.
     private  String base = "Placeholder";
     public  List<String> getRawTexts() throws Exception{
 
@@ -14,7 +14,7 @@ public class HtmlCodeGetter {                                       //Class Fina
         webClient.setJavaScriptTimeout(15000);
         webClient.getOptions().setThrowExceptionOnScriptError(false);
         DefaultCredentialsProvider autoLogin = (DefaultCredentialsProvider) webClient.getCredentialsProvider();
-        // """ Die Login Daten für den Vertretungsplan wurden entfernt
+        // ### Die Login Daten für den Vertretungsplan wurden entfernt
         autoLogin.addCredentials("Placeholder", "Placeholder");
         String calenderWeek = String.valueOf(calendar.get(Calendar.WEEK_OF_YEAR));
         String nextCalenderWeek = String.valueOf(calendar.get(Calendar.WEEK_OF_YEAR) +1);
